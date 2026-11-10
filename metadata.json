@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Protocol Garden",
+  "description": "A self-sustaining meta-protocol on Ethereum that autonomously deploys, funds, monitors, and evolves child DeFi protocols with on-chain genetic parameter optimization and revenue reinvestment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
